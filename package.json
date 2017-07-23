@@ -1,0 +1,26 @@
+{
+  "name": "douban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-open": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisxun/douban.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daisxun/douban/issues"
+  },
+  "homepage": "https://github.com/daisxun/douban#readme"
+}
